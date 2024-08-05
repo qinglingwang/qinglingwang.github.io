@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "付俊杰"
+title                    : "Qingling Wang"
 title_separator          : "-"
-name                     : &name "Junjie Fu"
+name                     : &name "Qingling Wang"
 description              : &description "Southeast University"
-url                      : https://junjiefu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://qinglingwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "junjiefu.github.io"
+repository               : "qinglingwang.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,21 +78,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "付俊杰 (Junjie Fu)"
-  avatar           : "profile.png"
-  bio              : "东南大学数学学院"
-  location         : "江苏，南京"
+  name             : "Qingling Wang"
+  avatar           : "qinglingwang.png"
+  bio              : "School of Automation, Southeast University"
+  location         : "Nanjing, China"
   employer         :  
   googlescholar    : "https://scholar.google.com/citations?user=F6wkr6sAAAAJ&hl=en"
-  email            : "fujunjie@seu.edu.cn"
+  email            : "qlwang@seu.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  researchgate     :  "https://www.researchgate.net/profile/Junjie-Fu-5"
+  researchgate     :  
   foursquare       :
-  github           : "junjiefu"
+  github           : "qinglingwang"
   google_plus      :
   keybase          :
   instagram        :
