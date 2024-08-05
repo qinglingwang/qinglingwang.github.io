@@ -37,40 +37,39 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
-* <small>03/2022:</small> <small style="color:red">"Gaussian process based robust adaptive trajectory tracking for unicycles with stability guarantees" was accepted by *Systems and Control Letters*.
-* 
+
 <h2 id="biography"> Biography</h2>  
 
 <small> Professor Qingling Wang, a PhD supervisor, received his Bachelor's and Master's degrees from Central South University in 2007 and 2010, and his PhD from Harbin Institute of Technology in 2014. He was a CSC joint PhD student at the Australian National University from 2012 to 2014. Since joining Southeast University in 2014, he has focused on autonomous systems control, optimization, and swarm intelligence. He has led five national and over ten provincial projects, contributing to the “14th Five-Year” strategic report and key national projects. His accolades include the 2018 Jiangsu Provincial Education and Research Achievement First Prize and the 2020 Best Theoretical Paper Award from the Chinese Association of Automation. He supervised students who won the First Prize in the 2022 National Intelligent Joint Maritime Combat Algorithm Competition and the Third Prize in the 2022 Aerial Intelligent Game Competition. With over 70 high-quality papers published in IEEE Transactions and the Journal of Automation, he serves as Deputy Secretary-General of the Youth Work Committee of the Chinese Association of Automation and is a senior member of IEEE.
 	
 <h2 id="education"> Education Background</h2>  
-<small>2010.09 – 2014.04   Ph.D., Control theory and control engineering, Harbin Institute of Technology, China.</small> <br>
-<small>2012.01 – 2014.01   Visiting Student, Australian National University, Australia.</small> <br>
-<small>2007.09 – 2010.06   M.Sc., Control theory and control engineering, Central South University, China.</small> <br>
-<small>2003.09 – 2007.06   B.Sc., School of Automation, Central South University, China.</small> 
+<small>2010.09 – 2014.04	Ph.D., Control theory and control engineering, Harbin Institute of Technology, China.</small> <br>
+<small>2012.01 – 2014.01   	Visiting Student, Australian National University, Australia.</small> <br>
+<small>2007.09 – 2010.06   	M.Sc., Control theory and control engineering, Central South University, China.</small> <br>
+<small>2003.09 – 2007.06   	B.Sc., School of Automation, Central South University, China.</small> 
 
 <h2 id="experience">Work Experiences</h2> 
-<small>2023.04 – Now         Professor at Southeast University, Nanjing, China.</small> <br>
-<small>2018.04 – 2023.04   Associate Professor at Southeast University, Nanjing, China.</small> <br>
-<small>2016.10 – 2017.01   Visiting Scholar at Technical University of Berlin, Germany.</small> <br>
-<small>2014.07 – 2018.04   Assistant Professor at Southeast University, Nanjing, China.</small> 
+<small>2023.04 – Now         	Professor at Southeast University, Nanjing, China.</small> <br>
+<small>2018.04 – 2023.04   	Associate Professor at Southeast University, Nanjing, China.</small> <br>
+<small>2016.10 – 2017.01   	Visiting Scholar at Technical University of Berlin, Germany.</small> <br>
+<small>2014.07 – 2018.04   	Assistant Professor at Southeast University, Nanjing, China.</small> 
 
 <h2 id="research">Research Areas</h2>  
 * <small> Adaptive Control
 * <small> Multi-agent Systems
 * <small> Reinforcement Learning
 
-<small>We welcome students specializing in Automation, Computer Science, Mathematics, and related fields to contact us for pursuing Master's or PhD degrees.
-	
 <h2 id="student">Recruitment Information</h2>  
 	
-<small>Recruitment Numbers:
+Recruitment Numbers:
 
-Postdoctoral Fellows: 1-2 per year
-PhD Students: 1-2 per year
-Master’s Students: 4-6 per year (including Nanjing, Wuxi, Suzhou)
-Address: School of Automation, Southeast University, Sipailou 2#, Nanjing, 210096
-Email: qlwang@seu.edu.cn
+<small>Postdoctoral Fellows: 1-2 per year
+<small>PhD Students: 1-2 per year
+<small>Master’s Students: 4-6 per year (including Nanjing, Wuxi, Suzhou)
+<small>Address: School of Automation, Southeast University, Sipailou 2#, Nanjing, 210096
+<small>Email: qlwang@seu.edu.cn
+
+<small>We welcome students specializing in Automation, Computer Science, Mathematics, and related fields to contact us for pursuing Master's or PhD degrees.
 		
 <h2 id="service">Professional Activities</h2>  
 
