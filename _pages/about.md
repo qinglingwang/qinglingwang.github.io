@@ -38,173 +38,127 @@ h1, h2, h3, h4, h5, h6 {
 </style>
 {% include base_path %} 
 * <small>03/2022:</small> <small style="color:red">"Gaussian process based robust adaptive trajectory tracking for unicycles with stability guarantees" was accepted by *Systems and Control Letters*.
-<h2 id="biography"> 基本信息</h2>  
+* 
+<h2 id="biography"> Biography</h2>  
 
-<small> 付俊杰，东南大学数学学院副研究员，博士生导师。2017年毕业于北京大学工学院力学系统与控制系，获博士学位。2011年毕业于北京大学工学院理论与应用力学系，获学士学位。2016 年至2017 年期间，于澳大利亚墨尔本大学联合培养。研究方向包括动态受限多智能体系统分布式协同控制，非线性系统建模与控制，分布式模型预测控制，安全强化学习等。在Automatica, IEEE Trans.等控制领域知名期刊已发表SCI论文30余篇，申请并受理国家发明专利6项。主持完成国家自然科学基金青年基金1项，江苏省自然科学基金青年基金1项。主持在研国防类项目1项，面上项目1项。作为研究骨干参与XXX教育部联合基金项目2项，中船重工横向课题项目1项，国防类项目1项。曾担任多个国际国内会议组织委员会共同主席，包括2018中国网络科学论坛、2018IWCSN、2019ICFTA、2021中国系统科学大会等。目前为中国指挥与控制学会网络科学与工程专委会委员，中国自动化学会控制理论专业委员会多自主体控制分委会委员，IEEE Member。2018年10月入选江苏省双创博士人才计划，2018年11月入选东南大学至善青年学者人才项目。
-
-<small>目前主要研究方向包括：</small>
-* <small> 多智能体系统协同控制
-* <small> 分布式模型预测控制
-* <small> 高斯过程学习及数据驱动协同控制
-* <small> 多机器人分布式信息收集
-* <small> 安全强化学习、多智能体强化学习
-
-<small>欢迎数学、自动化、信息等相关专业毕业生联系攻读硕博士学位；本科生联系srtp科研训练项目以及高年级同学毕业设计课题。
+<small> Professor Qingling Wang, a PhD supervisor, received his Bachelor's and Master's degrees from Central South University in 2007 and 2010, and his PhD from Harbin Institute of Technology in 2014. He was a CSC joint PhD student at the Australian National University from 2012 to 2014. Since joining Southeast University in 2014, he has focused on autonomous systems control, optimization, and swarm intelligence. He has led five national and over ten provincial projects, contributing to the “14th Five-Year” strategic report and key national projects. His accolades include the 2018 Jiangsu Provincial Education and Research Achievement First Prize and the 2020 Best Theoretical Paper Award from the Chinese Association of Automation. He supervised students who won the First Prize in the 2022 National Intelligent Joint Maritime Combat Algorithm Competition and the Third Prize in the 2022 Aerial Intelligent Game Competition. With over 70 high-quality papers published in IEEE Transactions and the Journal of Automation, he serves as Deputy Secretary-General of the Youth Work Committee of the Chinese Association of Automation and is a senior member of IEEE.
 	
-<h2 id="education"> 教育经历</h2>  
-<small>2011.9-2017.7 北京大学工学院动力学系统与控制系	博士就读;</small> <br>
-<small>2016.7-2017.2 墨尔本大学电子电器工程系	博士联合培养;</small> <br>
-<small>2007.9-2011.7 北京大学工学院理论与应用力学专业	本科就读.</small> 
+<h2 id="education"> Education Background</h2>  
+<small>2010.09 – 2014.04   Ph.D., Control theory and control engineering, Harbin Institute of Technology, China.</small> <br>
+<small>2012.01 – 2014.01   Visiting Student, Australian National University, Australia.</small> <br>
+<small>2007.09 – 2010.06   M.Sc., Control theory and control engineering, Central South University, China.</small> <br>
+<small>2003.09 – 2007.06   B.Sc., School of Automation, Central South University, China.</small> 
 
-<h2 id="experience">工作经历</h2> 
-<small>2017-至今 东南大学数学学院</small> 
+<h2 id="experience">Work Experiences</h2> 
+<small>2023.04 – Now         Professor at Southeast University, Nanjing, China.</small> <br>
+<small>2018.04 – 2023.04   Associate Professor at Southeast University, Nanjing, China.</small> <br>
+<small>2016.10 – 2017.01   Visiting Scholar at Technical University of Berlin, Germany.</small> <br>
+<small>2014.07 – 2018.04   Assistant Professor at Southeast University, Nanjing, China.</small> 
 
+<h2 id="research">Research Areas</h2>  
+* <small> Adaptive Control
+* <small> Multi-agent Systems
+* <small> Reinforcement Learning
 
-<h2 id="publication">论文发表</h2> 
-
-期刊论文
-* <small>D. Liu, M. Tang, J. Fu Gaussian process based robust adaptive trajectory tracking for unicycles with stability guarantees. Systems and Control Letters, 2022.
-* <small>胡一帆，刘克新，付俊杰，温广辉，基于安全强化学习的不确定二阶系统模型参考跟踪控制，控制工程，2022
-* <small>J. Fu, Lv Y, W. Y, Robust adaptive time-varying region tracking control of multi-robot systems. Science China. doi：10.1007/s11432-020-3299-2, 2021.</small>
-* <small>唐美祺，付俊杰，稀疏高斯过程多智能体区域覆盖控制，控制工程，2021.</small>
-* <small>J. Fu, Y. Lv, G. Wen and X. Yu, Local measurement based formation navigation of nonholonomic robots with globally bounded inputs and collision avoidance, IEEE Transactions on Network Science and Engineering, doi: 10.1109/TNSE.2021.3089833, 2021.</small>
-* <small>G. Wen, X. Yu, J. Fu, H. Wang and W. Yu, Fast distributed average tracking in multi-agent networks: The case with general linear agent dynamics, IEEE Transactions on Control of Network Systems, doi: 10.1109/TCNS.2020.3046949, 2021.
-* <small>T. Liu, M. Liu, G. Wen, Y. Lv and J. Fu, Consensus of Linear MIMO Multiagent Systems: Appointed-Time Reduced-Order Observer-Based Protocols,  IEEE Transactions on Cybernetics, doi: 10.1109/TCYB.2021.3062424, 2021.
-* <small>J. Fu, G. Wen, X. Yu, Z. Wu, Distributed formation navigation of constrained second-order multiagent systems with collision avoidance and connectivity maintenance. IEEE Transactions on Cybernetics. doi: 10.1109/TCYB.2020.3000264, 2020.
-* <small>J. Fu, Y. Lv, G. Wen, X. Yu, Huang  T,  Velocity and input constrained coordination of second-order multi-agent systems with relative output information. IEEE Transactions on Network Science and Engineering. vol. 7, no. 3, pp. 1925-1938, 2020.
-* <small>J. Fu, Y. Wan, T. Huang. Event-triggered finite-time practical consensus of multiagent systems with general directed communication graphs. International Journal of Robust and Nonlinear Control. vol. 30, pp. 7255-7277, 2020.
-* <small>Y. Lv, J. Fu, G. Wen, T. Huang and X. Yu, Fully Distributed Anti-Windup Consensus Protocols for Linear MASs With Input Saturation: The Case With Directed Topology, IEEE Transactions on Cybernetics. Doi: 10.1109/TCYB.2020.2977554, 2020.
-* <small>Y. Lv, J. Fu, G. Wen, X. Yu, Distributed adaptive observer-based control for output consensus of heterogeneous MASs with input saturation constrain.  IEEE Transactions on Circuits and Systems I: Regular Papers. vol. 67， no. 3, 995-1007, 2020.
-* <small>Y. Lv, J. Fu, G. Wen, X. Yu, T. Huang. On Consensus of Multi-agent Systems with Input Saturation: Fully Distributed Adaptive Anti-windup Protocol Design Approach. IEEE Transactions on Control of Network Systems. vol.7 no.3  1127-1139, 2020.
-* <small>F. Mei, H. Wang, Y. Yao, J. Fu, X. Yuan and W. Yu, "Robust second-order finite-time formation control of heterogeneous multi-agent systems on directed communication graphs," IET Control Theory & Applications, vol. 14, no. 6, pp. 816-823, 2020.
-* <small>W. Zhang, J. Qin, F. Mei, J. Fu, B. Dai and W. Yu. Short-term power load forecasting using integrated methods based on long short-term memory[J]. Science China(Technological Sciences),  063(004):P.614-624, 2020.
-* <small>J. Fu, Y. Wan, G. Wen and T. Huang. Distributed Robust Global Containment Control of Second-Order Multi-Agent Systems With Input Saturation. IEEE Transactions on Control of Networked Systems. vol.6, no. 4, pp. 1426-1437, 2019.
-* <small>J. Fu , G. Wen, W. Yu, T. Huang, X. Yu,  Second-order consensus with both input and velocity constraints. IEEE Transactions on Industrial Electronics.  vol. 66, no. 10, pp. 7946-7955, Oct. 2019.
-* <small>J. Fu, G. Wen, T. Huang and Z. Duan. Consensus of multi-agent systems with heterogeneous asymmetrical input saturation levels. IEEE Transactions on Circuits and Systems II: Express Briefs. vol. 66, no. 6, pp. 1053-1057, June. 2019. 
-* <small>J. Fu, Y. Lv, T. Huang. Distributed anti-windup approach for consensus tracking for second-order multi-agent systems with input saturation [J]. Systems and Control Letters, vol. 130, pp. 1-6, 2019.
-* <small>J. Fu, Q. Wang and J. Wang. Robust finite-time consensus tracking for second-order multi-agent systems with input saturation under general directed communication graphs [J]. International Journal of Control. vol. 92, no. 8, 1785-1795, 2019.
-* <small>H. Hong, W. Yu, J.Fu, X.Yu X. A novel class of distributed protocols for fixed-time consensus of second-order nonlinear and disturbed multi-agent systems. IEEE Transactions on Network Science and Engineering. vol. 6, no. 4, 760-772, October 2019
-* <small>H. Hong, W. Yu, J. Fu, X. Yu. Finite-time connectivity-preserving consensus for second-order nonlinear multi-agent systems [J]. IEEE Transactions on Control of Network Systems. vol. 6, no. 1, pp. 236-248, March 2019.
-* <small>T. Fang, W. Yu, J. Fu, W.Gu, J. Gu. Distributed  optimization of multi-agent systems subject to inequality constraints. IEEE Transactions on Cybernetics . doi:10.1109/TCYB.2019.2927725
-* <small>Y. Yao, F. Tian, F. Mei, J. Fu, B. Dai, W. Yu. "Dynamical economic dispatch using distributed barrier function-based optimization algorithm." Science China(Technological Sciences) 12, 2019.
-* <small>J. Fu, G. Wen, W. Yu, T. Huang and J. Cao, Exponential consensus of multi-agent systems with Lipschitz nonlinearities using sampled-data information, IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 65, no. 12, pp. 4363-4375, 2018.
-* <small>Q. Wang, J. Fu and J. Wang. Cooperative tracking for high-order nonlinear multi-agent systems via adaptive control [J]. IET control theory and applications, 12(11): 1592-1600, 2018.
-* <small>J. Fu, G. Wen, W. Yu and Z. Ding. Finite-time consensus for second-order multi-agent systems with input saturation [J]. IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 65, no. 11, pp. 1758-1762, 2017.
-* <small>J. Fu, J. Wang and Z. Li. Leader-following control of perturbed second-order integrator systems with binary relative information [J]. International Journal of Systems Science, 48(3): 485-493, 2017.
-* <small>J. Fuang J. Wang. Finite-time consensus for multi-agent systems with globally bounded convergence time under directed communication graphs [J]. International Journal of Control, 90(9): 1807-1817, 2017.
-* <small>Q. Wang, J. Fu, and J. Wang Fully distributed containment control of high-order multi-agent systems with nonlinear dynamics [J]. Systems & Control Letters, vol. 99, pp. 33-39, 2017.
-* <small>J. Fu, and J. Wang. Observer-based finite-time coordinated tracking for general linear multi-agent systems. Automatica, vol. 66, pp. 231-237, 2016.
-* <small>J. Fu and J. Wang. Fixed-time coordinated tracking for second-order multi-agent systems with bounded input uncertainties [J]. Systems and Control Letters, vol. 93, pp. 1-12, 2016.
-* <small>J.Fu and J. Wang. Robust finite-time containment control for high-order multi-agent systems with matched uncertainties under directed communication graphs [J]. International Journal of Control, 89(6): 1137-1151, 2016.
-* <small>J. Fuang J. Wang. Robust finite-time containment control of general linear multi-agent systems under directed communication graphs. Journal of the Franklin Institute, 353(12): 2670-2689, 2016.
-* <small>J. Fu and J. Wang. Adaptive motion coordination of passive systems under quantization effect [J]. International Journal of Robust and Nonlinear Control, 25(11): 1638-1653, 2015.
-* <small>J. Fu ang J. Wang. Output consensus of heterogeneous linear systems with quantized information [J]. Journal of the Franklin Institute, 351(3): 1400-1418, 2014.
-* <small>J. Fu ang J. Wang. Adaptive consensus tracking of high-order nonlinear multi-agent systems with directed communication graphs [J]. International Journal of Control, Automation and Systems, 12(5): 919-929, 2014.
-* <small>J. Fu and J. Wang. Adaptive coordinated tracking of multi-agent systems with quantized information [J]. Systems and Control Letters, vol. 74, pp. 115-125, 2014.
-
-会议论文
-
-* <small>1.Fu J,WangJ.Adaptiveconsensustrackingoflinearmulti-agentsystemswithmatching nonlinear uncertainties[C]//Control Conference (CCC), 201332ndChinese. IEEE, 2013:6773-6778.
-* <small>2.Fu J,WangJ.Leader-followingcontrolofsecond-orderintegratorsystemsusingbinaryinformation[C]//Control and Decision Conference (2014 CCDC), The 26th Chinese. IEEE, 2014: 263-268.
-* <small>3.Fu J, Wang J. Observer-based finite-time coordinated tracking for high-order integrator systems with matched uncertainties under directed communication graphs[C]//Control & Automation (ICCA), 11th IEEE International Conference on. IEEE, 2014: 880-885.
-* <small>4.Fu J, Wang J. Finite-time coordinated tracking for high-order uncertain nonlinear multi-agent systems with directed communication graphs[C]// The 33th Chinese Control Conference (2014 CCC). IEEE, 2014:1081-1086.
-* <small>5.Fu J, Wang J. Terminal sliding mode control based finite-time coordinated tracking for disturbed high-order integrator systems[C]//Control and Decision Conference (CCDC), 2015 27th Chinese. IEEE, 2015: 44-49.
-* <small>6.Fu J, Wang J, and Li Z. Fully distributed finite-time leader-following control for high-order integrator systems with directed communication graphs[C]// The 34th Chinese Control Conference (2015 CCC). IEEE, 2015: 6912-6917
-* <small>7.Wang Q, Fu J, and Wang J. Leader-follower consensus for high-order integrator systems with lipschitz nonlinear dynamics [C]// The 34th Chinese Control Conference (2015 CCC). IEEE, 2015: 7096-7101.
-* <small>8.Fu J, Wang Q, and Wang J. Global saturated finite-time consensus tracking for uncertain second-order multi-agent systems with directed communication graphs [C]// The 35th Chinese Control Conference (2016 CCC). IEEE, 2016: 7684-7689.
-* <small>9.Wang Q, Fu J, and Wang J. Observer-based adaptive containment control for multi-agent systems with nonlinear dynamics under directed graphs. [C]// The 12th World Congress on Intelligent Control and Automation. IEEE, 2016: 360-365.
-* <small>10.Wang Q, Fu J, and Wang J. Cooperative tracking for high-order Lipschitz nonlinear multi-agent systems via adaptive control [C]// The 35th Chinese Control Conference (2016 CCC). IEEE, 2016: 7961-7966.
-* <small>11.Fu J, Wang Q, and Wang J. Robust finite-time consensus tracking for second-order multi-agent systems with reduced communication [C]// The 55th Conference on Decision and Control (CDC). IEEE, 2016: 6086-6091.
-* <small>12.Fu J, Tan Y and Wang J. Output feedback consensus tracking for second-order nonlinear multi-agent systems with directed communication graphs[C]//Control and Decision Conference (CCDC), 2017 29th Chinese. IEEE, 2017. (Accepted)
-* <small>13.Fu J. Tan Y, Wang J, Wen G. Sampled-data leader-following rendezvous with input saturation[C]// Control & Automation (ICCA), 14th IEEE International Conference on. IEEE, 2017. (Accepted)
-* <small>14.Xiaoli Li, Ying Tan, Junjie Fu, Iven Mareels. On V-Shaped Flight Formation of Bird Flocks with Visual Communication Constraints. Control & Automation (ICCA), 14th IEEE International Conference on. IEEE, 2017. (Accepted)
-* <small>15.Fu J. Wen G, Yu W. Consensus tracking of second-order multi-agent systems with input saturation under sampled-data communication [C]// The 2017 Chinese Automation Congress. IEEE, 2017.
-* <small>16.Hong, Huifen, Wenwu Yu, Guanghui Wen, and Junjie Fu. Robust consensus tracking for heterogeneous linear multi-agent systems with disturbances. In2017 11th Asian Control Conference (ASCC), pp. 729-734. IEEE, 2017.
-* <small>17.Fu, Junjie, and Guanghui Wen. Sampled-data consensus of Lipschitz nonlinear multi-agent systems under directed communication graphs.2018 33rd Youth Academic Annual Conference of Chinese Association of Automation (YAC). IEEE, 2018.
-* <small>18.Fu, Junjie, and Jinzhi Wang. Robust Global Finite-time Attitude Coordination for Multiple Spacecraft.2018 37th Chinese Control Conference (CCC). IEEE, 2018.
-* <small>19.Fu, Junjie, Tingwen Huang, and Guanghui Wen. Global Leader-following Control of Multiple Non-holonomic Mobile Robots With Input Saturation. In2018 15th International Conference on Control, Automation, Robotics and Vision (ICARCV), pp. 862-867. IEEE, 2018.
-* <small>20.Lv, Yuezu, Zhou, Jialing, Fu, Junjie ,Wen, Guanghui, Huang, Tingwen. Consensus of multiple lur'e systems for directed communication graphs with distributed adaptive relative output feedback protocol. Proceedings of the IEEE International Conference on Industrial Technology, pp. 1430-1435, 2019.
-* <small>21.Lv, Yueze, Fu Junjie, Zhou Jialing, Wen Guanghui, and Yu Xinghuo. Distributed adaptive anti-windup consensus tracking of networked systems with switching topologies. In2019 IEEE 28th International Symposium on Industrial Electronics (ISIE), pp. 1793-1798. IEEE, 2019.
-* <small>22.Fang, Xiao, Junjie Fu, and Yuezu Lv. Containment of Linear Multi-Agent Systems with Reduced-Order Protocols Over Signed Graphs. In2019 China-Qatar International Workshop on Artificial Intelligence and Applications to Intelligent Manufacturing (AIAIM), pp. 6-10. IEEE, 2019.
-* <small>23.Zhao, Dan, and Junjie Fu. Observer-Based Adaptive Fault-Tolerant Consensus Tracking of Multi-Agent Systems. In2019 China-Qatar International Workshop on Artificial Intelligence and Applications to Intelligent Manufacturing (AIAIM), pp. 30-35. IEEE, 2019.
-* <small>24.Fu, Junjie, Yuezu Lv, Jialing Zhou, and Guanghui Wen. Consensus Tracking of Second-order Multi-agent Systems With Input Saturation Under General Directed Communication Graph. In2019 IEEE 28th International Symposium on Industrial Electronics (ISIE), pp. 1787-1792. IEEE, 2019.
-* <small>25.Fu, Junjie, Guanghui Wen, Yuezu Lv, and Tingwen Huang. Barrier Function Based Consensus of High-Order Nonlinear Multi-agent Systems with State Constraints. InInternational Conference on Neural Information Processing, pp. 492-503. Springer, Cham, 2019.
-* <small>26.Yuezu Lv, Jialing Zhou, Guanghui Wen, Junjie Fu, Xinghuo Yu, Tingwen Huang, Adaptive Attack-Free Output-Feedback Consensus Protocol for Nonlinear MASs, ICCA, 2020.
-* <small>27.Zhongjing Luo, Jiahui Yu, Junjie Fu and Zhaohui Liu, Bayesian network based Ant Colony Optimization algorithm for USV path planning in a dynamic environment, ICCSS, 2020.
-* <small>28.Guanghui Wen, Yuezu Lv, Jialing Zhou and Junjie Fu, Sufficient and Necessary Condition for Resilient Consensus under Time-varying Topologies. ICCSS, 2020.
-* <small>29.Hu Y, Fu J and Lv Y. "A Class of Optimal Control Problem for Stochastic Discrete-Time Systems with Average Reward Reinforcement Learning." In 2021 4th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS), pp. 829-834. IEEE, 2021.
-* <small>30.Tang M and Fu J. "Nonparametric Adaptive Trajectory Tracking Control of Uncertain Euler-Lagrange Systems." In 2021 4th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS), pp. 852-857. IEEE, 2021.
-* <small>31.Lei Y, Wan Y, Fu J, NSGA-II based Electric Vehicle Charging Scheduling for DailyCommuting, CCDC, 2022. 
-* <small>32.Wang Y, Tang M, Fu J, 集中式分布式递推最小二乘自适应覆盖控制，CCSCC, 2021
-
-<h2 id="project">科研项目</h2> 
-
-* <small>复杂多自主体系统高效分布式避障协同控制研究及应用，国家自然科学基金面上基金(Grant No. 61722303), 2022/01-2025/12, 在研，主持
-* <small>复杂多智能体系统输入饱和有限时间一致性控制，国家自然科学基金青年基金(Grant No. 61722303), 已结题，主持
-* <small>输入饱和复杂多智能体系统采样一致性控制，江苏省自然科学基金青年基金 (Grant No. BK20170695), 已结题，主持
-* <small>XXX教育部联合基金一般项目，6141A020223，无人集群系统分布式自主协同通信与控制关键技术，2018/01-2019/12，100万，已结题，参与
-* <small>中船重工716所横向课题，面向协同的水面无人艇智能航行技术研究，2018/09-2019/10，68万，已结题，参与
-* <small>XXX国防项目，XXX的数学理论分析与高效处理技术，2019/09-2021/09，200万，已结题，参与
+<small>We welcome students specializing in Automation, Computer Science, Mathematics, and related fields to contact us for pursuing Master's or PhD degrees.
 	
-<h2 id="student">在读学生</h2>  
+<h2 id="student">Recruitment Information</h2>  
 	
-博士
-	
-* <small>胡一帆（联合指导，2021）230218183@seu.edu.cn
-* <small>战勇良（2022）
-	
-硕士
-	
-* <small>唐美祺（2020）220201679@seu.edu.cn
-* <small>刘丹（2021）220211772@seu.edu.cn
-* <small>汪烨（2021）wangyemath@163.com
-* <small>郝福鑫（联合指导，2021）18936161955@163.com
-* <small>艾乐巍（2021）170342101@cauc.edu.cn	
-* <small>胡建（2022）
+<small>Recruitment Numbers:
+
+Postdoctoral Fellows: 1-2 per year
+PhD Students: 1-2 per year
+Master’s Students: 4-6 per year (including Nanjing, Wuxi, Suzhou)
+Address: School of Automation, Southeast University, Sipailou 2#, Nanjing, 210096
+Email: qlwang@seu.edu.cn
 		
-<h2 id="service">荣誉及社会兼职</h2>  
-	
- 相关荣誉
-	
-* <small>2020 IEEE ICCSS Zadeh最佳论文奖（排4）
-* <small>2018东南大学至善青年学者
-* <small>2018江苏省双创博士
-* <small>2017北京大学优秀博士论文
-* <small>2016亚洲控制期刊杰出审稿人
- 
-社会兼职
-	
-* <small>IEEE 会员
-* <small>IEEE 工业应用电子学会会员
-* <small>中国指挥控制学会复杂网络专委会委员
-* <small>中国自动化会控制理论专业委员会多自主体控制分委员会
-* <small>中国工业与应用数学学会会员
-* <small>江苏省自动化学会会员
-* <small>江苏省运筹学会会员
+<h2 id="service">Professional Activities</h2>  
 
+Editor and Editorial Board Member	
 
- 
+* <small>Complexity (2019--, SCI Indexed) 
+* <small>Mathematical Problems in Engineering（2020--，SCI indexed）
+* <small>Frontiers in Control Engineering（2020--)
 
+Guest Editorship 
 
+* <small>Artificial Intelligence and Autonomous Systems (Frontiers in Control Engineering)
+Manuscript Due: 30 September 2022 https://www.frontiersin.org/research-topics/36804/artificial-intelligence-and-autonomous-systems
 
+Academic/Conference Activities
 
+* <small>Publicity Chair The Youth Academic Annual Conference of CAA (YAC2018-YAC2024)
+* <small>PC Member, IEEE CYBER2018、YAC2016、 ANT2016
+* <small>Reviewer, American Mathematical Reviews
 
+<h2 id="awards">Academic Awards</h2>   
 
+* <small>The Creative Founder Award-Innovation Award, China Association of Inventions, Second Prize, 2024
+* <small>National Intelligent Joint Maritime Warfare Algorithm Competition, Chinese Institute of Command and Control, First Prize, 2022
+* <small>Best Theoretical Paper Award, The 35th Youth Academic Annual Conference of Chinese Association of Automation (YAC2020), 2020
+* <small>Teaching and Research Achievement Award (Research), Jiangsu Province in China, First Prize, 2018
+* <small>National Intelligent Technology Papers Competition, Chinese Association of Automation, Second Prize, 2018
+* <small>Outstanding Achievement Award, Natural Science Foundation of Jiangsu, 2018
+* <small>Outstanding Service, Journal of the Franklin Institute, 2018
+* <small>[8]	Outstanding Reviewers, Journal of the Franklin Institute (2018), ISA Transactions (2017) and Neurocomputing (2017)
 
+<h2 id="project">Research Project</h2> 
 
+* <small>2024-2027, Research on distributed optimal consensus of nonlinear multi-agent systems. Supported by National Natural Science Foundation of China (500K RMB, Grant No. 62373102, Principal Investigator)
+* <small>2022-2025, Research on the Consensus Problem for Uncertain Multiagent Systems with Unknown Control Directions. Supported by Natural Science Foundation of Jiangsu Province, China (100K RMB, Grant No. BK20221455, Principal Investigator)
+* <small>2022-2024, Key Technologies and Applications of Autonomous Decision and Intelligent Learning for Unmanned Swarm Systems. Supported by Anhui Provincial Key Research and Development Project, China (780K RMB, Grant No. 2022i01020013, Principal Investigator)
+* <small>2021-2023, Reinforcement Learning based Multi-Agent Cooperative Control with Disturbance Rejection and Its Applications. Supported by National Natural Science Foundation of China and the Royal Society of UK (100K RMB, Grant No. 62111530149, Principal Investigator)
+* <small>2020-2023, Research on High-order Nonlinear Multi-Agent Systems with Unknown Control Coefficients. Supported by National Natural Science Foundation of China (570K RMB, Grant No. 61973074, Principal Investigator)
+* <small>2016-2018, Robust Consensus for Multiagent Systems with Saturation Constraints. Supported by National Natural Science Foundation of China (240K RMB, Grant No. 61503079, Principal Investigator)
+* <small>2015-2018, Fixed-time Consensus for Multiagent Systems with Saturation Constraints. Supported by Natural Science Foundation of Jiangsu Province, China (200K RMB, Grant No. BK20150625, Principal Investigator)
 
+<h2 id="publication">Selected Publications</h2> 
 
-
-
-
-
-
-
-
-
-
-
-
+* <small>Qingling Wang, Wenqiang Wu, A distributed finite-time optimization algorithm for directed networks of continuous-time agents, International Journal of Robust and Nonlinear Control, 2024, 34(6): 4032-4050.
+* <small>Qingling Wang, H.E. Psillakis, Changyin Sun, Frank L. Lewis, Adaptive NN distributed control for time-varying networks of nonlinear agents with antagonistic interactions, IEEE Transactions on Neural Networks and Learning Systems, 2021, 32(6): 2573-2583.
+* <small>Qingling Wang, Changyin Sun, Distributed asymptotic consensus in directed networks of nonaffine systems with nonvanishing disturbance, IEEE/CAA Journal of Automatica Sinica, 2021, 8(6): 1133-1140.
+* <small>Qingling Wang, H.E. Psillakis, Changyin Sun, Cooperative control of multiple high-order agents with non-identical unknown control directions under fixed and time-varying topologies, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2021, 51(4): 2582-2591.
+* <small>Qingling Wang, Yuanda Wang, Changyin Sun, Cooperative control with designated convergence rate for high-order integrators under heterogeneous couplings, Journal of the Franklin Institute, 2021, 358(9): 4626-4642.
+* <small>Qingling Wang, Changyin Sun, A continuous distributed control algorithm for time-varying networks of nonlinear agents with input saturation, International Journal of Robust and Nonlinear Control, 2021, 31(10): 4616-4628.
+* <small>Qingling Wang, Convergence of time-varying networks and its applications, Frontiers of Information Technology & Electronic Engineering, 2021, 22(1): 88-96.
+* <small>Qingling Wang, H.E. Psillakis, Changyin Sun, Adaptive cooperative control with guaranteed convergence in time-varying networks of nonlinear dynamical systems, IEEE Transactions on Cybernetics, 2020, 50(12): 5035-5046. 
+* <small>Qingling Wang, Changyin Sun, Adaptive consensus of multi-agent systems with unknown high-frequency gain signs under directed graphs, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2020, 50(6): 2181-2186.
+* <small>Qingling Wang, H.E. Psillakis, Changyin Sun, Cooperative control of multiple agents with unknown high-frequency gain signs under unbalanced and switching topologies, IEEE Transactions on Automatic Control, 2019, 64(6): 2495-2501.
+* <small>Qingling Wang, Changyin Sun, Yangyang Chen, Adaptive neural network control for course-keeping of ships with input constraints, Transactions of the Institute of Measurement and Control, 2019, 41(4): 1010-1018.
+* <small>Qingling Wang, Changyin Sun, Xin Xin, Robust consensus tracking of linear multiagent systems with input saturation and input-additive uncertainties, International Journal of Robust and Nonlinear Control, 2017, 27(14): 2393-2409. 
+* <small>Qingling Wang, Xianghui Cao, Changyin Sun, Robust output synchronization of linear multi-agent systems with constant disturbances via integral control, International Journal of Robust and Nonlinear Control, 2017, 27(9): 1628-1639. 
+* <small>Qingling Wang, Changyin Sun, Coordinated tracking of linear multiagent systems with input saturation and stochastic disturbances, ISA Transactions, 2017, 71(1): 3-9. 
+* <small>Qingling Wang, Scaled consensus of multi-agent systems with output saturation, Journal of the Franklin Institute, 2017, 354(14): 6190-6199.
+* <small>Qingling Wang, Yuanda Wang, Changyin Sun, Fixed-time consensus of multi-agent systems with directed and intermittent communications, Asian Journal of Control, 2017, 19(1): 95-105. 
+* <small>Qingling Wang, Changyin Sun, Conditions for consensus in directed networks of agents with heterogeneous output saturation, IET Control Theory and Applications, 2016, 10(16): 2119-2127.
+* <small>Qingling Wang, Changbin Yu, Huijun Gao, Semiglobal stabilization of saturated linear systems via multiple parametric Lyapunov equations, International Journal of Robust and Nonlinear Control, 2015, 25(1): 16-31. 
+* <small>Qingling Wang, Changbin Yu, Huijun Gao, Synchronization of identical linear dynamic systems subject to input saturation, Systems and Control Letters, 2014, 64(1): 107-113. 
+* <small>Qingling Wang, Changbin Yu, Huijun Gao, Semiglobal synchronization of multiple generic linear agents with input saturation, International Journal of Robust and Nonlinear Control, 2014, 24(18): 3239-3254. 
+* <small>Qingling Wang, Cheng Peng, Huijun Gao, M. Basin, Global consensus of single-integrator agents subject to saturation constraints, IET Control Theory and Applications, 2014, 8(9): 765-771. 
+* <small>Qingling Wang, Huijun Gao, Global consensus of multiple integrator agents via saturated controls, Journal of the Franklin Institute, 2013, 350(8): 2261-2276.
+* <small>Wenqiang Wu, Qingling Wang, Distributed optimal consensus via PI regulation for high-order nonlinear agents over directed networks, International Journal of Robust and Nonlinear Control, 2024, DOI: 10.1002/rnc.7564.
+* <small>Chenchen Fan, Hongyu Xu, Qingling Wang*, Multi-agent deep reinforcement learning for trajectory planning in UAVs-assisted mobile edge computing with heterogeneous requirements, Computer Networks, 2024, 248: 110469: 1-15.
+* <small>Xuerao Wang, Qingling Wang, Yanxu Su, Yuncheng Ouyang, and Changyin Sun, Adaptive sensor-fault tolerant control of unmanned underwater vehicles with input saturation, IEEE/CAA Journal of Automatica Sinica, 2024, 11(4): 907-918.
+* <small>Xuerao Wang, Yuncheng Ouyang, Xiao Wang, Qingling Wang*, A novel, finite-time, active fault-tolerant control framework for autonomous surface vehicle with guaranteed performance. Journal of Marine Science and Engineering, 2024, 12(2): 347.
+* <small>Wenbo Zhu, Qingling Wang*, Distributed finite-time optimization of multi-agent systems with time-varying cost functions under digraphs, IEEE Transactions on Network Science and Engineering, 2024, 11(1): 556 - 565.
+* <small>Wenbo Zhu, Qingling Wang*, Distributed optimization of high-order nonlinear multi-agent systems with disturbance under switching topologies, Optimal Control Applications and Methods, 2024, 45(3): 974-992
+* <small>Yibai Wang, Shulong Zhao, Qingling Wang*, Cooperative control of velocity and heading for unmanned surface vessel based on twin delayed deep deterministic policy gradient with an integral compensator, Ocean Engineering, 2023, 288: 115943.
+* <small>Wenbo Zhu, Changyin Sun, Qingling Wang*, Distributed finite-time optimization algorithms for multi-agent systems under directed graphs, International Journal of Robust and Nonlinear Control, 2023, 33: 6286–6307.
+* <small>Wenbo Zhu, Qingling Wang*, Distributed finite-time optimization of multi-agent systems with unknown high-frequency gain signs under switching digraphs, International Journal of Systems Science, 2023, 54(5): 1033-1046.
+* <small>Huan Hu, Qingling Wang*, Proximal policy optimization with an integral compensator for quadrotor control, Frontiers of Information Technology & Electronic Engineering, 2020, 21(5): 777-795.
+* <small>Yanxu Su, Qingling Wang, Changyin Sun, Distributed primal-dual method for convex optimization with coupled constraints, IEEE Transactions on Signal Processing, 2022, 70：523 – 535.
+* <small>Jiaqi Li, Qingling Wang, Yanxu Su, Changyin Sun, Robust distributed model predictive consensus of discrete-time multi-agent systems: a self-triggered approach, Frontiers of Information Technology & Electronic Engineering, 2021, 22 (8): 1068-1079.
+* <small>Athanasios Gkesoulis, H. E. Psillakis, Qingling Wang, PdI regulation for consensus: application to unknown pure-feedback agents with state and communication delays, IEEE Transactions on Control of Network Systems, 2021, 8 (4): 1964 -1974.
+* <small>Xuerao Wang, Qingling Wang, Changyin Sun, Prescribed performance fault-tolerant control for uncertain nonlinear MIMO system using actor-critic learning structure, IEEE Transactions on Neural Networks and Learning Systems, 2022, 33 (9): 4479 - 4490.
+* <small>Xuerao Wang, Qingling Wang, Changyin Sun, Adaptive tracking control for high-order MIMO nonlinear systems with prescribed performance, Frontiers of Information Technology & Electronic Engineering, 2021, 22 (7): 986-1001.
+* <small>H.E. Psillakis, Qingling Wang, Distributed adaptive consensus of nonlinear heterogeneous agents with delayed and sampled neighbor measurements, IEEE Transactions on Cybernetics, 2022, 52 (4): 2340 -2350.
+* <small>Yanxu Su, Qingling Wang, Changyin Sun, Self-triggered consensus control for linear multi-agent systems with input saturation, IEEE/CAA Journal of Automatica Sinica, 2020, 7(1): 150-157.
+* <small>Deyuan Liu, Hao Liu, Zhaoying Li, Xiaolei Hou, Qingling Wang, Robust attitude control for tail-sitter unmanned aerial vehicles in flight mode transitions, International Journal of Nonlinear and Control, 2019, 29(4): 1132-1149.
+* <small>Yanxu Su, Qingling Wang, Changyin Sun, Self-triggered robust model predictive control for nonlinear systems with bounded disturbances, IET Control Theory and Applications, 2019, 13(9): 1336-1343.
+* <small>Ming Liu, Qingling Wang, Hongyi Li, State estimation and stabilization for nonlinear networked control systems with limited capacity channel, Journal of the Franklin Institute, 2011, 348(8): 1869-1885.
+* <small>Ming Liu, Qingling Wang, Sheng Qu, State estimation for discrete-time singular jump systems with non-accessible mode information, Circuits, Systems & Signal Processing, 2012, 31(2): 761-777.
+* <small>Qingling Wang, Yuanda Wang, Exponential consensus in directed networks of multi-agents with saturated protocols, Journal of Interconnection Networks, 2016, 16(2): 1650003.
+* <small>Qingling Wang, Huijun Gao, F. Alsaadi, T. Hayat, An overview of consensus problems in constrained multi-agent coordination, Systems Science and Control Engineering, 2014, 2(1): 275-284.
 
 
 
