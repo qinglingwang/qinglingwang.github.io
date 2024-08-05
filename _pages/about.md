@@ -1,13 +1,13 @@
-#---
-#permalink: /
-#title: "News!"
-#excerpt: "About me"
-#author_profile: true
-#redirect_from: 
-#  - /about#publication
-#  - /about
-#  - /about.html
-#---
+---
+permalink: /
+title: "News!"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+- /about#publication
+- /about
+- /about.html
+---
 <style>
 .page__content p {
     margin: 0 0 0em;
