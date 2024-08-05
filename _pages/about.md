@@ -60,18 +60,15 @@ h1, h2, h3, h4, h5, h6 {
 * <small> Reinforcement Learning
 
 <h2 id="student">Recruitment Information</h2>  
-	
+We welcome students specializing in Automation, Computer Science, Mathematics, and related fields to contact us for pursuing Master's or PhD degrees.
+
 Recruitment Numbers:
 
 * <small>Postdoctoral Fellows: 1-2 per year
 * <small>PhD Students: 1-2 per year
 * <small>Master’s Students: 4-6 per year 
-  
-Address: School of Automation, Southeast University, Sipailou 2#, Nanjing, 210096
 
 Email: qlwang@seu.edu.cn
-
-We welcome students specializing in Automation, Computer Science, Mathematics, and related fields to contact us for pursuing Master's or PhD degrees.
 		
 <h2 id="service">Professional Activities</h2>  
 
