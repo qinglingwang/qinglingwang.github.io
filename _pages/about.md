@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small> Reinforcement Learning
 
 <h2 id="student">Recruitment Information</h2>  
-We welcome students specializing in Automation, Computer Science, Mathematics, and related fields to contact us for pursuing Master's or PhD degrees.
+<small>We welcome students specializing in Automation, Computer Science, Mathematics, and related fields to contact us for pursuing Master's or PhD degrees.
 
 Recruitment Numbers:
 
@@ -68,7 +68,7 @@ Recruitment Numbers:
 * <small>PhD Students: 1-2 per year
 * <small>Master’s Students: 4-6 per year 
 
-Email: qlwang@seu.edu.cn
+<small>Email: qlwang@seu.edu.cn
 		
 <h2 id="service">Professional Activities</h2>  
 
