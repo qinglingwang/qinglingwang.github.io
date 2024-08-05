@@ -65,8 +65,10 @@ Recruitment Numbers:
 
 * <small>Postdoctoral Fellows: 1-2 per year
 * <small>PhD Students: 1-2 per year
-* <small>Master’s Students: 4-6 per year (including Nanjing, Wuxi, Suzhou)
+* <small>Master’s Students: 4-6 per year 
+  
 Address: School of Automation, Southeast University, Sipailou 2#, Nanjing, 210096
+
 Email: qlwang@seu.edu.cn
 
 We welcome students specializing in Automation, Computer Science, Mathematics, and related fields to contact us for pursuing Master's or PhD degrees.
