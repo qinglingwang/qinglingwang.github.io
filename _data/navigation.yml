@@ -1,22 +1,31 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Home"
+  #   url: /cv/
+  # - title: "Education"
+  #   url: /#education
+  - title: "基本信息"
+    url: /#biography
+  - title: "教育经历"
+    url: /#education
+  - title: "工作经历"
+    url: /#experience  
+  - title: "论文发表"
+    url: /#publication 
+  - title: "科研项目"
+    url: /#project
+  - title: "在读学生"
+    url: /#student
+  - title: "荣誉及社会兼职"
+    url: /#service   
+  # - title: "Blog"
+  #  url: /blog
+  # - title: "CV"
+  #  url: /files/cv.pdf   
+  # - title: "Blog"
+  #   url: https://scholar.google.com/ 
+  # - title: "Services"
+  #   url: /services/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Blog Posts"
+  #   url: /year-archive/ 
