@@ -40,7 +40,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="biography"> Biography</h2>  
 
-<small> Professor Qingling Wang, a PhD supervisor, received his Bachelor's and Master's degrees from Central South University in 2007 and 2010, and his PhD from Harbin Institute of Technology in 2014. He was a CSC joint PhD student at the Australian National University from 2012 to 2014. Since joining Southeast University in 2014, he has focused on autonomous systems control, optimization, and swarm intelligence. He has led five national and over ten provincial projects, contributing to the “14th Five-Year” strategic report and key national projects. His accolades include the 2018 Jiangsu Provincial Education and Research Achievement First Prize and the 2020 Best Theoretical Paper Award from the Chinese Association of Automation. He supervised students who won the First Prize in the 2022 National Intelligent Joint Maritime Combat Algorithm Competition and the Third Prize in the 2022 Aerial Intelligent Game Competition. With over 70 high-quality papers published in IEEE Transactions and the Journal of Automation, he serves as Deputy Secretary-General of the Youth Work Committee of the Chinese Association of Automation and is a senior member of IEEE.
+<small> Qingling Wang, Professor and Ph.D. Supervisor, received his Bachelor's and Master's degrees from Central South University in 2007 and 2010, respectively, and his Ph.D. degree from Harbin Institute of Technology in 2014. From January 2012 to January 2014, he was a CSC joint Ph.D. student at the Australian National University. He joined the School of Automation, Southeast University in July 2014, and has been engaged in the research of control and optimization of autonomous unmanned systems and multi-agent games for a long time. He has led five national-level projects and over ten provincial and ministerial-level projects, including those funded by the Jiangsu Natural Science Foundation. As a key contributor, he has participated in the strategic research report for the 14th Five-Year Plan for the automation discipline, pre-research projects for the Equipment Development Department, and key projects of the National Natural Science Foundation. He has received numerous accolades, including the First Prize in the Jiangsu Provincial Teaching and Research Achievement Award in 2018 and the Best Theory Paper Award at the Youth Academic Annual Conference of the Chinese Association of Automation in 2020. His students, under his mentorship, won the First Prize in the National Intelligent Joint Maritime Warfare Algorithm Competition in 2022 and the Third Prize in the Air Intelligence Game in the same year. Professor Wang has published over 70 high-quality papers in prestigious journals such as IEEE Transactions and Acta Automatica Sinica. He currently serves as the Deputy Secretary-General of the Youth Working Committee of the Chinese Association of Automation and is a Senior Member of IEEE.
 	
 <h2 id="education"> Education Background</h2>  
 <small>2010.09 – 2014.04	Ph.D., Control theory and control engineering, Harbin Institute of Technology, China.</small> <br>
@@ -58,17 +58,6 @@ h1, h2, h3, h4, h5, h6 {
 * <small> Adaptive Control
 * <small> Multi-agent Systems
 * <small> Reinforcement Learning
-
-<h2 id="student">Recruitment Information</h2>  
-<small>We welcome students specializing in Automation, Computer Science, Mathematics, and related fields to contact us for pursuing Master's or PhD degrees.
-
-Recruitment Numbers:
-
-* <small>Postdoctoral Fellows: 1-2 per year
-* <small>PhD Students: 1-2 per year
-* <small>Master’s Students: 4-6 per year 
-
-<small>Email: qlwang@seu.edu.cn
 		
 <h2 id="service">Professional Activities</h2>  
 
